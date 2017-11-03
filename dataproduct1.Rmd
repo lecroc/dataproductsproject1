@@ -44,7 +44,7 @@ Icons <- icons(
 
 teamsites <- c(
   "<a href='https://www.mlb.com/twins'>Minnesota Twins</a>",
-  "<a href='http://www.nba.com/timberwolves'>Minnesota Timberwolves</a>",
+  "<a href='https://dunkingwithwolves.com/'>Minnesota Timberwolves</a>",
   "<a href='http://www.vikings.com/'>Minnesota Vikings</a>",
   "<a href='https://www.nhl.com/wild'>Minnesota Wild</a>"
   )
